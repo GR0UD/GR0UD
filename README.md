@@ -1,15 +1,5 @@
 <p align="center">
-  <pre>
-<span style="background: linear-gradient(to right, #ffffff, #2ea44f); -webkit-background-clip: text; color: transparent;">
- ::::::::  :::::::::   :::::::  :::    ::: :::::::::  
-:+:    :+: :+:    :+: :+:   :+: :+:    :+: :+:    :+: 
-+:+        +:+    +:+ +:+  :+:+ +:+    +:+ +:+    +:+ 
-:#:        +#++:++#:  +#+ + +:+ +#+    +:+ +#+    +:+ 
-+#+   +#+# +#+    +#+ +#+#  +#+ +#+    +#+ +#+    +#+ 
-#+#    #+# #+#    #+# #+#   #+# #+#    #+# #+#    #+# 
- ########  ###    ###  #######   ########  #########  
-</span>
-  </pre>
+  <img src="https://raw.githubusercontent.com/GR0UD/GR0UD/main/gr0ud-ascii-green.svg" alt="GR0UD ASCII art" width="500"/>
 </p>
 
 <h3 align="center">Hi, I'm GR0UD 👋</h3>
@@ -22,49 +12,44 @@ Full-Stack Web Developer | Front-End Enthusiast | Tech Explorer
 ### 🌐 Website
 [https://galkin.vercel.app](https://galkin.vercel.app)
 
-### 🎵 Currently Listening
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=qhx7hd19i91wat6ceuo3nzl27&cover_image=true&theme=default)](https://open.spotify.com/user/qhx7hd19i91wat6ceuo3nzl27)
+<p align="center">
+  <a href="https://open.spotify.com/user/qhx7hd19i91wat6ceuo3nzl27">
+    ![Recently Played Spotify Songs](https://spotify-recently-played-readme.vercel.app/api?user=qhx7hd19i91wat6ceuo3nzl27)
+  </a>
+</p>
 
 ---
 
 ### 💻 Tech Stack
-
 <p align="center">
-  <!-- Development -->
-  <img alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="JSX" title="JSX" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="PHP" title="PHP" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="JSX" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="PHP" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" width="50" height="50" style="margin:5px;" />
+  
+  <img alt="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="Next.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="Tailwind" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="SASS" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sass.svg" width="50" height="50" style="margin:5px;" />
+  
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="JSON" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/json.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="Webpack" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webpack.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="npm" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/npm.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="Jest" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jest.svg" width="50" height="50" style="margin:5px;" />
 </p>
 
 <p align="center">
-  <!-- Front-End / Styling -->
-  <img alt="React" title="React (Vite)" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="Next.js" title="Next.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="Tailwind CSS" title="Tailwind CSS" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="SASS" title="SASS / SCSS" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sass.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-</p>
-
-<p align="center">
-  <!-- Backend / Tooling -->
-  <img alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="JSON" title="JSON" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/json.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="Fetch API" title="Fetch API" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="Webpack" title="Webpack" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webpack.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="npm" title="npm" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/npm.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="Jest" title="Jest" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jest.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-</p>
-
-<p align="center">
-  <!-- CMS / Dev Tools -->
-  <img alt="WordPress" title="WordPress" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wordpress.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="MAMP" title="MAMP" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mamp.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="LocalWP" title="LocalWP" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" width="50" height="50" style="border-radius:50%; margin:5px;" /> <!-- placeholder -->
-  <img alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
-  <img alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <!-- Special / CMS / Tools -->
+  <img alt="WordPress" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wordpress.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="MAMP" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mamp.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="LocalWP" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="VS Code" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="Figma" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="50" height="50" style="margin:5px;" />
+  <img alt="Website" src="https://galkin.vercel.app/favicon.ico" width="50" height="50" style="margin:5px;" />
 </p>
 
 ---
