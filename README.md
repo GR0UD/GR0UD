@@ -25,7 +25,7 @@
     <img width="12" />
     <a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  /></a>
     <img width="12" />
-    <a href="https://www.php.net"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /></a>
+    <a href="https://www.php.net"><img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  /></a>
 </div>
 
 <div align="left">
