@@ -1,8 +1,4 @@
 <p align="center">
-  <a href="https://galkin.vercel.app"><img src="https://img.shields.io/badge/Visit%20My%20Website-?style=for-the-badge&color=161b22" /></a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!"/>
 </p>
 
@@ -30,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://galkin.vercel.app"><img src="https://img.shields.io/badge/Website-🌐-blue?style=for-the-badge" /></a>
+  <a href="https://galkin.vercel.app"><img src="https://img.shields.io/badge/Visit%20My%20Website-?style=for-the-badge&color=161b22" /></a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=GR0UD&icon=0&color=3)](https://visitcount.itsvg.in)
