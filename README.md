@@ -1,103 +1,57 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!"/>
+</p>
 
-  <!-- Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1200&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+GR0UD.;Crafting+calm+digital+experiences." alt="Typing SVG" />
+---
 
-</div>
+## Socials
 
-<br>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fkwr)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/GR0UD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/markgalkin)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/GR0UD)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/GR0UD)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://galkin.vercel.app)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/qhx7hd19i91wat6ceuo3nzl27)
 
-<!-- ASCII Logo -->
-<div align="center" style="line-height:1;">
-<pre>
-<span style="background: linear-gradient(to top, #00FF00, #FFFFFF); -webkit-background-clip: text; color: transparent;">
- ::::::::  :::::::::   :::::::  :::    ::: :::::::::  
-:+:    :+: :+:    :+: :+:   :+: :+:    :+: :+:    :+: 
-+:+        +:+    +:+ +:+  :+:+ +:+    +:+ +:+    +:+ 
-:#:        +#++:++#:  +#+ + +:+ +#+    +:+ +#+    +#+ 
-+#+   +#+# +#+    +#+ +#+#  +#+ +#+    +#+ +#+    +#+ 
-#+#    #+# #+#    #+# #+#   #+# #+#    #+# #+#    #+# 
- ########  ###    ###  #######   ########  ######### 
-</span>
-</pre>
-</div>
+---
 
-<br>
+## Spotify Activity
 
-## <div align="center">✨ Creative Space</div>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=qhx7hd19i91wat6ceuo3nzl27&cover_image=true&theme=default"/>
 
-<div align="center">
-  <a href="https://galkin.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="50" alt="Portfolio" />
-  </a>
-  <p style="font-size:14px; opacity:0.7;">My personal site</p>
-</div>
+---
 
-<br>
+# Tech Stack
 
-## <div align="center">🌐 Socials</div>
+## Development
 
-<div align="center">
-  <a href="https://discord.gg/fkwr"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/markgalkin"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/GR0UD"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/GR0UD"><img src="https://skillicons.dev/icons?i=telegram" width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" width="40" /></a>
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,jsx,php&perline=6&theme=dark"/>
 
-<br>
+## Front-End / Styling
 
-## <div align="center">🛠️ Tech Stack</div>
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,sass,scss&perline=6&theme=dark"/>
 
-<div align="center">
+## Backend / Tooling
 
-<!-- Development -->
-<img src="https://skillicons.dev/icons?i=html" width="45"/>
-<img src="https://skillicons.dev/icons?i=css" width="45"/>
-<img src="https://skillicons.dev/icons?i=js" width="45"/>
-<img src="https://skillicons.dev/icons?i=react" width="45" title="JSX / React"/>
-<img src="https://skillicons.dev/icons?i=php" width="45"/>
+<img src="https://skillicons.dev/icons?i=mysql,json,webpack,npm,jest&perline=6&theme=dark"/>
 
-<br><br>
+## CMS / Dev Tools
 
-<!-- Front-End / Styling -->
-<img src="https://skillicons.dev/icons?i=react" width="45" title="React / Vite"/>
-<img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
-<img src="https://skillicons.dev/icons?i=sass" width="45"/>
+<img src="https://skillicons.dev/icons?i=wordpress,vscode,figma,git,github&perline=6&theme=dark"/>
 
-<br><br>
+---
 
-<!-- Backend / Tooling -->
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
-<img src="https://skillicons.dev/icons?i=json" width="45"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="45" title="Fetch API"/>
-<img src="https://skillicons.dev/icons?i=webpack" width="45"/>
-<img src="https://skillicons.dev/icons?i=npm" width="45"/>
-<img src="https://skillicons.dev/icons?i=jest" width="45"/>
+# GitHub Stats
 
-<br><br>
+![](https://github-readme-stats.vercel.app/api?username=GR0UD&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GR0UD&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GR0UD&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- CMS / Dev Tools -->
-<img src="https://skillicons.dev/icons?i=wordpress" width="45"/>
-<img src="https://skillicons.dev/icons?i=mamp" width="45"/>
-<img src="https://skillicons.dev/icons?i=wordpress" width="45" title="LocalWP"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
-<img src="https://skillicons.dev/icons?i=figma" width="45"/>
-<img src="https://skillicons.dev/icons?i=git" width="45"/>
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+---
 
-</div>
+[![](https://visitcount.itsvg.in/api?id=GR0UD&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<br>
+[![](https://visitcount.itsvg.in/api?id=GR0UD&icon=0&color=3)](https://visitcount.itsvg.in)
 
-## <div align="center">📊 GitHub Metrics</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GR0UD&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GR0UD&theme=tokyonight" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
