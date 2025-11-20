@@ -2,15 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!"/>
 </p>
 
-## Socials
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fkwr)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/GR0UD)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/markgalkin)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/GR0UD)
-
----
-
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
@@ -35,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://galkin.vercel.app"><img src="https://img.shields.io/badge/Website-🌐-blue?style=for-the-badge" /></a>
+  <a href="https://galkin.vercel.app" style="background-color: #161b22; color: #1dcd5c; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Visit My Website</a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=GR0UD&icon=0&color=3)](https://visitcount.itsvg.in)
