@@ -18,6 +18,10 @@
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=qhx7hd19i91wat6ceuo3nzl27&cover_image=true&theme=default"/>
 
+## Recently Played
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=qhx7hd19i91wat6ceuo3nzl27" />
+
 # Tech Stack
 
 ## Development
@@ -37,15 +41,5 @@
 <img src="https://skillicons.dev/icons?i=wordpress,vscode,figma,git,github&perline=6&theme=dark"/>
 
 ---
-
-# GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=GR0UD&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GR0UD&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GR0UD&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=GR0UD&icon=0&color=3)](https://visitcount.itsvg.in)
 
 [![](https://visitcount.itsvg.in/api?id=GR0UD&icon=0&color=3)](https://visitcount.itsvg.in)
