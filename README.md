@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<img src="https://spotify-live-banner-two.vercel.app/" alt="Spotify Now Playing" width="400" />
+<img src="https://spotify-live-banner-two.vercel.app/?theme=dark" alt="Spotify Now Playing" width="400" />
 
 </p>
 
