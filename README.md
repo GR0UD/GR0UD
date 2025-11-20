@@ -19,6 +19,10 @@
 
 ---
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=qhx7hd19i91wat6ceuo3nzl27&count=10" />
+<p align="center">
+
+<img src="https://spotify-live-banner-two.vercel.app/" alt="Spotify Now Playing" width="400" />
+
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=GR0UD&icon=0&color=3)](https://visitcount.itsvg.in)
