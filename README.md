@@ -4,33 +4,33 @@
 
 # Tech Stack
 
-<div align="left">
-    <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
-    <img width="12" />
-    <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></a>
-    <img width="12" />
-    <a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></a>
-    <img width="12" />
-    <a href="https://www.w3.org/Style/CSS/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  /></a>
-    <img width="12" />
-    <a href="https://tailwindcss.com"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  /></a>
-    <img width="12" />
-    <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
-    <img width="12" />
-    <a href="https://webpack.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  /></a>
-    <img width="12" />
-    <a href="https://www.typescriptlang.org"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  /></a>
-    <img width="12" />
-    <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  /></a>
-    <img width="12" />
-    <a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  /></a>
-    <img width="12" />
-    <a href="https://www.php.net"><img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  /></a>
-</div>
+|     |     |
+| --- | --- |
 
-##
+| <div align="left">
+<a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
+<img width="12" />
+<a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></a>
+<img width="12" />
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></a>
+<img width="12" />
+<a href="https://www.w3.org/Style/CSS/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  /></a>
+<img width="12" />
+<a href="https://tailwindcss.com"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  /></a>
+<img width="12" />
+<a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
+<img width="12" />
+<a href="https://webpack.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  /></a>
+<img width="12" />
+<a href="https://www.typescriptlang.org"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  /></a>
+<img width="12" />
+<a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  /></a>
+<img width="12" />
+<a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  /></a>
+<img width="12" />
+<a href="https://www.php.net"><img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  /></a>
 
-<div align="left">
+</div> | <div align="left">
     <a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></a>
     <img width="12" />
     <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /></a>
@@ -42,7 +42,7 @@
     <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /></a>
     <img width="12" />
     <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /></a>
-</div>
+</div> |
 
 # Socials
 
