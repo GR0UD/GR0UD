@@ -6,9 +6,33 @@
 
 ---
 
-## 🚀 GitHub Stats
+## 🎨 Creative Space (Portfolio)
 
-Here are some of my GitHub statistics and activity!
+<p align="center">
+  <a href="https://galkin.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/galkin.vercel.app-FF5722?style=for-the-badge&logo=react&logoColor=white&link=https://galkin.vercel.app" alt="Portfolio Badge" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect with GR0UD (Socials)
+
+<p align="center">
+  <a href="https://discord.gg/fkwr" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="35" height="35" alt="Discord" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/markgalkin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://instagram.com/GR0UD" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="35" height="35" alt="Instagram" /></a>
+  &nbsp;
+  <a href="https://t.me/GR0UD" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" width="35" height="35" alt="Telegram" /></a>
+  &nbsp;
+  <a href="https://codepen.io/GR0UD" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="35" height="35" alt="Codepen" /></a>
+</p>
+
+---
+
+## 🚀 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GR0UD&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20&card_width=380&hide_border=true&border_radius=10&animation=true" alt="GR0UD's GitHub Stats" />
@@ -20,26 +44,7 @@ Here are some of my GitHub statistics and activity!
 
 ---
 
-## 🔗 Find Me Online: Socials
-
-A few places where you can connect with me!
-
-|   Platform    |                              Link                               |                                                                                   Badge                                                                                   |
-| :-----------: | :-------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Portfolio** |         [galkin.vercel.app](https://galkin.vercel.app)          | [![My Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white&link=https://galkin.vercel.app)](https://galkin.vercel.app) |
-|  **Discord**  |           [discord.gg/fkwr](https://discord.gg/fkwr)            |                [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fkwr)                 |
-| **LinkedIn**  | [linkedin.com/in/markgalkin](https://linkedin.ol/in/markgalkin) |             [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/markgalkin)             |
-| **Instagram** |       [instagram.com/GR0UD](https://instagram.com/GR0UD)        |               [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GR0UD)               |
-| **Telegram**  |                [t.me/GR0UD](https://t.me/GR0UD)                 |                     [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GR0UD)                     |
-|  **Codepen**  |          [codepen.io/GR0UD](https://codepen.io/GR0UD)           |                   [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/GR0UD)                    |
-
-<br>
-
----
-
 ## 🛠️ My Digital Arsenal: Tech Stack
-
-A look at the languages, frameworks, and tools I use.
 
 ### 💻 Core Development
 
