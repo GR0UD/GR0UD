@@ -8,14 +8,10 @@
     <a href="https://galkin.vercel.app"><img src="https://img.shields.io/badge/My%20Website-grey?style=for-the-badge&logo=vercel" /></a>
 </div>
 
-#
-
 |                                                                                                                                                                                                         |                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1DCB5C&center=true&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!"/></div> | <div align="center"><img src="https://spotify-live-banner-two.vercel.app/?theme=dark" alt="Spotify Now Playing" width="400" /></div> |
 |                                                                                                                                                                                                         |                                                                                                                                      |
-
-#
 
 # Arsenal
 
