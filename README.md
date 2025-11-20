@@ -3,12 +3,12 @@
 | <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1DCB5C&center=true&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!"/></div> | <div align="center"><img src="https://spotify-live-banner-two.vercel.app/?theme=dark" alt="Spotify Now Playing" width="400" /></div> |
 |                                                                                                                                                                                                         |                                                                                                                                      |
 
-# Tech Stack
+##
 
 |     |     |
 | --- | --- |
 
-|<p><a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
+| <div align="center"><p><a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
 <img width="12" />
 <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></a>
 <img width="12" />
@@ -28,7 +28,12 @@
 <img width="12" />
 <a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  /></a>
 <img width="12" />
-<a href="https://www.php.net"><img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  /></a></p> |<p><a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></a>
+<a href="https://www.php.net"> <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  /></a></p> </div> | <div align="center"><img src="https://spotify-live-banner-two.vercel.app/?theme=dark" alt="Spotify Now Playing" width="400" /></div> |
+| | |
+
+# Tech Stack
+
+<p><a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></a>
 <img width="12" />
 <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /></a>
 <img width="12" />
@@ -38,7 +43,7 @@
 <img width="12" />
 <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /></a>
 <img width="12" />
-<a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /></a></p> |
+<a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /></a></p>
 
 ##
 
