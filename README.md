@@ -1,3 +1,15 @@
+<div align="center">
+    <a href="https://linkedin.com/in/markgalkin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
+    <img width="12" />
+    <a href="https://discord.gg/fkwr"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  /></a>
+    <img width="12" />
+    <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  /></a>
+</div>
+
+<p align="center">
+  <a href="https://galkin.vercel.app"><img src="https://img.shields.io/badge/W%20E%20B%20S%20I%20T%20E-1DCB5C" /></a>
+</p>
+
 |                                                                                                                                                                                                         |                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1DCB5C&center=true&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!"/></div> | <div align="center"><img src="https://spotify-live-banner-two.vercel.app/?theme=dark" alt="Spotify Now Playing" width="400" /></div> |
@@ -51,17 +63,5 @@
 <img width="12" />
 
 ##
-
-<div align="center">
-    <a href="https://linkedin.com/in/markgalkin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
-    <img width="12" />
-    <a href="https://discord.gg/fkwr"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  /></a>
-    <img width="12" />
-    <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  /></a>
-</div>
-
-<p align="center">
-  <a href="https://galkin.vercel.app"><img src="https://img.shields.io/badge/W%20E%20B%20S%20I%20T%20E-1DCB5C" /></a>
-</p>
 
 [![](https://visitcount.itsvg.in/api?id=GR0UD&icon=0&color=3)](https://visitcount.itsvg.in)
