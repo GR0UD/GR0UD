@@ -1,45 +1,81 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!"/>
+  <pre>
+<span style="background: linear-gradient(to right, #ffffff, #2ea44f); -webkit-background-clip: text; color: transparent;">
+ ::::::::  :::::::::   :::::::  :::    ::: :::::::::  
+:+:    :+: :+:    :+: :+:   :+: :+:    :+: :+:    :+: 
++:+        +:+    +:+ +:+  :+:+ +:+    +:+ +:+    +:+ 
+:#:        +#++:++#:  +#+ + +:+ +#+    +:+ +#+    +:+ 
++#+   +#+# +#+    +#+ +#+#  +#+ +#+    +#+ +#+    +#+ 
+#+#    #+# #+#    #+# #+#   #+# #+#    #+# #+#    #+# 
+ ########  ###    ###  #######   ########  #########  
+</span>
+  </pre>
 </p>
 
-## Socials
+<h3 align="center">Hi, I'm GR0UD 👋</h3>
+<p align="center">
+Full-Stack Web Developer | Front-End Enthusiast | Tech Explorer
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fkwr)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/GR0UD)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/markgalkin)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/GR0UD)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/GR0UD)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://galkin.vercel.app)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/qhx7hd19i91wat6ceuo3nzl27)
+---
 
-## Spotify Activity
+### 🌐 Website
+[https://galkin.vercel.app](https://galkin.vercel.app)
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=qhx7hd19i91wat6ceuo3nzl27&cover_image=true&theme=default"/>
+### 🎵 Currently Listening
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=qhx7hd19i91wat6ceuo3nzl27&cover_image=true&theme=default)](https://open.spotify.com/user/qhx7hd19i91wat6ceuo3nzl27)
 
-# Tech Stack
+---
 
-## Development
+### 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,jsx,php&perline=6&theme=dark"/>
+<p align="center">
+  <!-- Development -->
+  <img alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="JSX" title="JSX" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="PHP" title="PHP" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+</p>
 
-## Front-End / Styling
+<p align="center">
+  <!-- Front-End / Styling -->
+  <img alt="React" title="React (Vite)" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="Next.js" title="Next.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="Tailwind CSS" title="Tailwind CSS" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="SASS" title="SASS / SCSS" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sass.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,sass,scss&perline=6&theme=dark"/>
+<p align="center">
+  <!-- Backend / Tooling -->
+  <img alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="JSON" title="JSON" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/json.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="Fetch API" title="Fetch API" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="Webpack" title="Webpack" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webpack.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="npm" title="npm" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/npm.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="Jest" title="Jest" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jest.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+</p>
 
-## Backend / Tooling
+<p align="center">
+  <!-- CMS / Dev Tools -->
+  <img alt="WordPress" title="WordPress" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wordpress.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="MAMP" title="MAMP" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mamp.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="LocalWP" title="LocalWP" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" width="50" height="50" style="border-radius:50%; margin:5px;" /> <!-- placeholder -->
+  <img alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+  <img alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="50" height="50" style="border-radius:50%; margin:5px;" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,json,webpack,npm,jest&perline=6&theme=dark"/>
+---
 
-## CMS / Dev Tools
+### 🔗 Connect with Me
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/)  
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
 
-<img src="https://skillicons.dev/icons?i=wordpress,vscode,figma,git,github&perline=6&theme=dark"/>
+---
 
-# GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=GR0UD&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GR0UD&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GR0UD&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=GR0UD&icon=0&color=3)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=GR0UD&icon=0&color=3)](https://visitcount.itsvg.in)
+### 📊 GitHub Stats
+[![GR0UD's GitHub stats](https://github-readme-stats.vercel.app/api?username=GR0UD&show_icons=true&theme=github_green&count_private=true)](https://github.com/GR0UD)
