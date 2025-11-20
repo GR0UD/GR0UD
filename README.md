@@ -61,7 +61,3 @@
 <img width="12" />
 <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /></a></p>
 <img width="12" />
-
-##
-
-[![](https://visitcount.itsvg.in/api?id=GR0UD&icon=0&color=3)](https://visitcount.itsvg.in)
