@@ -1,86 +1,84 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!&duration=3000" alt="Typing SVG" />
+  <!-- Typing Header (modern minimalist yellow like Japanese tech sites) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1200&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+GR0UD.;Crafting+calm+digital+experiences." alt="Typing SVG" />
 </div>
 
 <br>
 
----
+<!-- SECTION HEADER STYLE -->
 
-## 🎨 Creative Space (Portfolio)
-
-<p align="center">
-  <a href="https://galkin.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/galkin.vercel.app-FF5722?style=for-the-badge&logo=react&logoColor=white&link=https://galkin.vercel.app" alt="Portfolio Badge" />
-  </a>
-</p>
-
----
-
-## 🌐 Connect with GR0UD (Socials)
-
-<p align="center">
-  <a href="https://discord.gg/fkwr" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="35" height="35" alt="Discord" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/markgalkin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://instagram.com/GR0UD" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="35" height="35" alt="Instagram" /></a>
-  &nbsp;
-  <a href="https://t.me/GR0UD" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" width="35" height="35" alt="Telegram" /></a>
-  &nbsp;
-  <a href="https://codepen.io/GR0UD" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="35" height="35" alt="Codepen" /></a>
-</p>
-
----
-
-## 🚀 GitHub Stats
+## <div align="center">✨ Creative Space</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GR0UD&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20&card_width=380&hide_border=true&border_radius=10&animation=true" alt="GR0UD's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GR0UD&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&animation=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GR0UD&layout=compact&theme=dark&hide_border=true&border_radius=10&card_width=380&animation=true" alt="Top Languages" />
+  <a href="https://galkin.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="50" alt="Portfolio" />
+  </a>
+  <p style="font-size:14px; opacity:0.7;">My personal site</p>
 </div>
 
 <br>
 
----
+## <div align="center">🌐 Socials</div>
 
-## 🛠️ My Digital Arsenal: Tech Stack
+<div align="center">
+  <a href="https://discord.gg/fkwr"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/markgalkin"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/GR0UD"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/GR0UD"><img src="https://skillicons.dev/icons?i=telegram" width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" width="40" /></a>
+</div>
 
-### 💻 Core Development
+<br>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JSX](https://img.shields.io/badge/jsx-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
+## <div align="center">🛠️ Tech Stack (Minimal Icons Only)</div>
 
-### 🎨 Frontend & Styling
+<div align="center">
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+<!-- Row 1 -->
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
+<img src="https://skillicons.dev/icons?i=css" width="45"/>
+<img src="https://skillicons.dev/icons?i=js" width="45"/>
+<img src="https://skillicons.dev/icons?i=ts" width="45"/>
+<img src="https://skillicons.dev/icons?i=php" width="45"/>
 
-### ⚙️ Backend, Database & Testing
+<br><br>
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
-![Fetch API](https://img.shields.io/badge/fetch%20api-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+<!-- Row 2 -->
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
+<img src="https://skillicons.dev/icons?i=vite" width="45"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
+<img src="https://skillicons.dev/icons?i=sass" width="45"/>
 
-### 🚀 Tools & Workflow
+<br><br>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<!-- Row 3 -->
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+<img src="https://skillicons.dev/icons?i=jest" width="45"/>
+<img src="https://skillicons.dev/icons?i=webpack" width="45"/>
+<img src="https://skillicons.dev/icons?i=npm" width="45"/>
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
 
-### 🌐 CMS & Local Development
+<br><br>
 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![MAMP](https://img.shields.io/badge/MAMP-888888.svg?style=for-the-badge&logo=mamp&logoColor=white)
-![LocalWP](https://img.shields.io/badge/LocalWP-888888.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+<!-- Row 4 -->
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+<img src="https://skillicons.dev/icons?i=figma" width="45"/>
+<img src="https://skillicons.dev/icons?i=wordpress" width="45"/>
+<img src="https://skillicons.dev/icons?i=cloudflare" width="45"/>
+
+</div>
+
+<br>
+
+## <div align="center">🌸 Philosophy</div>
+
+<p align="center" style="opacity:0.7; font-size:14px;">
+  “Clarity is power. Empty space is intentional.  
+  Build with calm energy and precise design.”
+</p>
