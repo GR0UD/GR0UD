@@ -4,11 +4,9 @@
     <a href="https://discord.gg/fkwr"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  /></a>
     <img width="12" />
     <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  /></a>
+    <img width="12" />
+    <a href="https://galkin.vercel.app"><img src="https://img.shields.io/badge/My%20Website-grey?style=for-the-badge&logo=vercel" /></a>
 </div>
-
-<p align="center">
-  <a href="https://galkin.vercel.app"><img src="https://img.shields.io/badge/W%20E%20B%20S%20I%20T%20E-1DCB5C" /></a>
-</p>
 
 |                                                                                                                                                                                                         |                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
