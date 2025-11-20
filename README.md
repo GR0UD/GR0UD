@@ -20,7 +20,7 @@
 
 > [!TIP]
 >
-> # Tech stack
+> <span style="color: green"> Tech-stack </span>
 >
 > <p><a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></a>
 > <img width="12" />
