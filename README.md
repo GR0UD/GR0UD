@@ -10,7 +10,6 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/GR0UD)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/GR0UD)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://galkin.vercel.app)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/qhx7hd19i91wat6ceuo3nzl27)
 
 ---
 
@@ -34,6 +33,6 @@
 
 ---
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=qhx7hd19i91wat6ceuo3nzl27&count={10}" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=qhx7hd19i91wat6ceuo3nzl27&count=10" />
 
 [![](https://visitcount.itsvg.in/api?id=GR0UD&icon=0&color=3)](https://visitcount.itsvg.in)
