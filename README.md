@@ -1,5 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=25D366&center=true&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!&duration=3000&background=gradient&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!&duration=3000" alt="Typing SVG" />
+</div>
+
+<br>
+
+---
+
+## 🚀 GitHub Stats
+
+Here are some of my GitHub statistics and activity!
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GR0UD&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20&card_width=380&hide_border=true&border_radius=10&animation=true" alt="GR0UD's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GR0UD&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&animation=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GR0UD&layout=compact&theme=dark&hide_border=true&border_radius=10&card_width=380&animation=true" alt="Top Languages" />
 </div>
 
 <br>
@@ -10,14 +24,14 @@
 
 A few places where you can connect with me!
 
-|   Platform    |                               Link                               |                                                                       Badge                                                                       |
-| :-----------: | :--------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Portfolio** |          [galkin.vercel.app](https://galkin.vercel.app)          |      [![Website](https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=About.me&logoColor=white)](https://galkin.vercel.app)       |
-|  **Discord**  |            [discord.gg/fkwr](https://discord.gg/fkwr)            |    [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fkwr)     |
-| **LinkedIn**  | [linkedin.com/in/markgalkin](https://linkedin.com/in/markgalkin) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/markgalkin) |
-| **Instagram** |        [instagram.com/GR0UD](https://instagram.com/GR0UD)        |   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GR0UD)   |
-| **Telegram**  |                 [t.me/GR0UD](https://t.me/GR0UD)                 |         [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GR0UD)         |
-|  **Codepen**  |           [codepen.io/GR0UD](https://codepen.io/GR0UD)           |       [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/GR0UD)        |
+|   Platform    |                              Link                               |                                                                                   Badge                                                                                   |
+| :-----------: | :-------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Portfolio** |         [galkin.vercel.app](https://galkin.vercel.app)          | [![My Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white&link=https://galkin.vercel.app)](https://galkin.vercel.app) |
+|  **Discord**  |           [discord.gg/fkwr](https://discord.gg/fkwr)            |                [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fkwr)                 |
+| **LinkedIn**  | [linkedin.com/in/markgalkin](https://linkedin.ol/in/markgalkin) |             [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/markgalkin)             |
+| **Instagram** |       [instagram.com/GR0UD](https://instagram.com/GR0UD)        |               [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GR0UD)               |
+| **Telegram**  |                [t.me/GR0UD](https://t.me/GR0UD)                 |                     [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GR0UD)                     |
+|  **Codepen**  |          [codepen.io/GR0UD](https://codepen.io/GR0UD)           |                   [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/GR0UD)                    |
 
 <br>
 
