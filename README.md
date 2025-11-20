@@ -8,7 +8,7 @@
 |     |     |
 | --- | --- |
 
-| <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
+|<a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
 <img width="12" />
 <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></a>
 <img width="12" />
@@ -28,7 +28,7 @@
 <img width="12" />
 <a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  /></a>
 <img width="12" />
-<a href="https://www.php.net"><img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  /></a> | <a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></a>
+<a href="https://www.php.net"><img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  /></a> |<a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></a>
 <img width="12" />
 <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /></a>
 <img width="12" />
