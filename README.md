@@ -14,7 +14,7 @@
 
 ## Spotify Activity
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=qhx7hd19i91wat6ceuo3nzl27&cover_image=true&theme=default"/>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qhx7hd19i91wat6ceuo3nzl27)
 
 # Tech Stack
 
