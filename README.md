@@ -14,32 +14,26 @@
 
 ---
 
-## Spotify Activity
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=qhx7hd19i91wat6ceuo3nzl27&cover_image=true&theme=default"/>
-
-## Recently Played
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=qhx7hd19i91wat6ceuo3nzl27" />
-
 # Tech Stack
 
-## Development
+### Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,jsx,php&perline=6&theme=dark"/>
 
-## Front-End / Styling
+### Front-End / Styling
 
 <img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,sass,scss&perline=6&theme=dark"/>
 
-## Backend / Tooling
+### Backend / Tooling
 
 <img src="https://skillicons.dev/icons?i=mysql,json,webpack,npm,jest&perline=6&theme=dark"/>
 
-## CMS / Dev Tools
+### CMS / Dev Tools
 
 <img src="https://skillicons.dev/icons?i=wordpress,vscode,figma,git,github&perline=6&theme=dark"/>
 
 ---
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=qhx7hd19i91wat6ceuo3nzl27&count={10}" />
 
 [![](https://visitcount.itsvg.in/api?id=GR0UD&icon=0&color=3)](https://visitcount.itsvg.in)
