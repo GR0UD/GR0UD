@@ -18,8 +18,8 @@
     <img width="12" />
 </div>
 
-|||> [!TIP]|||
-
+> [!TIP]
+>
 > # Tech stack
 >
 > <p><a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></a>
@@ -64,5 +64,3 @@
 > <img width="12" />
 > <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /></a></p>
 > <img width="12" />
-
-<img src="https://raw.githubusercontent.com/GR0UD/GR0UD/output/snake.svg" alt="Snake animation" />
