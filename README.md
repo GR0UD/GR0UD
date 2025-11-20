@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://galkin.vercel.app"><img src="https://img.shields.io/badge/Website-161b22" /></a>
+  <a href="https://galkin.vercel.app"><img src="https://img.shields.io/badge/W%20E%20B%20S%20I%20T%20E-161b22" /></a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=GR0UD&icon=0&color=3)](https://visitcount.itsvg.in)
