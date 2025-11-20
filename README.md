@@ -12,6 +12,7 @@ A few places where you can connect with me!
 
 |   Platform    |                               Link                               |                                                                       Badge                                                                       |
 | :-----------: | :--------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Portfolio** |          [galkin.vercel.app](https://galkin.vercel.app)          |      [![Website](https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=About.me&logoColor=white)](https://galkin.vercel.app)       |
 |  **Discord**  |            [discord.gg/fkwr](https://discord.gg/fkwr)            |    [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fkwr)     |
 | **LinkedIn**  | [linkedin.com/in/markgalkin](https://linkedin.com/in/markgalkin) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/markgalkin) |
 | **Instagram** |        [instagram.com/GR0UD](https://instagram.com/GR0UD)        |   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GR0UD)   |
@@ -64,17 +65,3 @@ A look at the languages, frameworks, and tools I use.
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![MAMP](https://img.shields.io/badge/MAMP-888888.svg?style=for-the-badge&logo=mamp&logoColor=white)
 ![LocalWP](https://img.shields.io/badge/LocalWP-888888.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-
-<br>
-
----
-
-## ✨ More Cool Stuff
-
-- I've included the Discord badge using the more visually appealing `style=for-the-badge`.
-- The title now has a green gradient (color set to `#25D366`, which is a nice green) using the `background=gradient` parameter in the typing SVG.
-- The Socials section is now a **table** for better alignment and readability.
-- I've used the `style=for-the-badge` parameter on all tech stack badges for a unified, modern look.
-- I've split the Tech Stack into sub-headers for better organization.
-
-Would you like to add an **animated profile image** or some **GitHub stats cards** to make the profile even more dynamic?
