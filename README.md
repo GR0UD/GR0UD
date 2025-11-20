@@ -5,9 +5,8 @@
     <img width="12" />
     <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  /></a>
     <img width="12" />
+    <a href="https://galkin.vercel.app"><img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="website logo" /></a>
 </div>
-
-    <a href="https://galkin.vercel.app"><img src="https://img.shields.io/badge/My%20Website-grey?style=for-the-badge&logo=vercel" /></a>
 
 |                                                                                                                                                                                                         |                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
