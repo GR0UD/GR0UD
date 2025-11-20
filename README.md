@@ -1,11 +1,28 @@
 <div align="center">
-  <!-- Typing Header (modern minimalist yellow like Japanese tech sites) -->
+
+  <!-- Typing Header -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1200&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+GR0UD.;Crafting+calm+digital+experiences." alt="Typing SVG" />
+
 </div>
 
 <br>
 
-<!-- SECTION HEADER STYLE -->
+<!-- ASCII Logo -->
+<div align="center" style="line-height:1;">
+<pre>
+<span style="background: linear-gradient(to top, #00FF00, #FFFFFF); -webkit-background-clip: text; color: transparent;">
+ ::::::::  :::::::::   :::::::  :::    ::: :::::::::  
+:+:    :+: :+:    :+: :+:   :+: :+:    :+: :+:    :+: 
++:+        +:+    +:+ +:+  :+:+ +:+    +:+ +:+    +:+ 
+:#:        +#++:++#:  +#+ + +:+ +#+    +:+ +#+    +#+ 
++#+   +#+# +#+    +#+ +#+#  +#+ +#+    +#+ +#+    +#+ 
+#+#    #+# #+#    #+# #+#   #+# #+#    #+# #+#    #+# 
+ ########  ###    ###  #######   ########  ######### 
+</span>
+</pre>
+</div>
+
+<br>
 
 ## <div align="center">✨ Creative Space</div>
 
@@ -34,51 +51,53 @@
 
 <br>
 
-## <div align="center">🛠️ Tech Stack (Minimal Icons Only)</div>
+## <div align="center">🛠️ Tech Stack</div>
 
 <div align="center">
 
-<!-- Row 1 -->
+<!-- Development -->
 <img src="https://skillicons.dev/icons?i=html" width="45"/>
 <img src="https://skillicons.dev/icons?i=css" width="45"/>
 <img src="https://skillicons.dev/icons?i=js" width="45"/>
-<img src="https://skillicons.dev/icons?i=ts" width="45"/>
+<img src="https://skillicons.dev/icons?i=react" width="45" title="JSX / React"/>
 <img src="https://skillicons.dev/icons?i=php" width="45"/>
 
 <br><br>
 
-<!-- Row 2 -->
-<img src="https://skillicons.dev/icons?i=react" width="45"/>
+<!-- Front-End / Styling -->
+<img src="https://skillicons.dev/icons?i=react" width="45" title="React / Vite"/>
 <img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
-<img src="https://skillicons.dev/icons?i=vite" width="45"/>
 <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
 <img src="https://skillicons.dev/icons?i=sass" width="45"/>
 
 <br><br>
 
-<!-- Row 3 -->
+<!-- Backend / Tooling -->
 <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
-<img src="https://skillicons.dev/icons?i=jest" width="45"/>
+<img src="https://skillicons.dev/icons?i=json" width="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="45" title="Fetch API"/>
 <img src="https://skillicons.dev/icons?i=webpack" width="45"/>
 <img src="https://skillicons.dev/icons?i=npm" width="45"/>
-<img src="https://skillicons.dev/icons?i=git" width="45"/>
+<img src="https://skillicons.dev/icons?i=jest" width="45"/>
 
 <br><br>
 
-<!-- Row 4 -->
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+<!-- CMS / Dev Tools -->
+<img src="https://skillicons.dev/icons?i=wordpress" width="45"/>
+<img src="https://skillicons.dev/icons?i=mamp" width="45"/>
+<img src="https://skillicons.dev/icons?i=wordpress" width="45" title="LocalWP"/>
 <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
 <img src="https://skillicons.dev/icons?i=figma" width="45"/>
-<img src="https://skillicons.dev/icons?i=wordpress" width="45"/>
-<img src="https://skillicons.dev/icons?i=cloudflare" width="45"/>
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 
 </div>
 
 <br>
 
-## <div align="center">🌸 Philosophy</div>
+## <div align="center">📊 GitHub Metrics</div>
 
-<p align="center" style="opacity:0.7; font-size:14px;">
-  “Clarity is power. Empty space is intentional.  
-  Build with calm energy and precise design.”
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GR0UD&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GR0UD&theme=tokyonight" />
+</div>
