@@ -40,7 +40,7 @@
 > <img width="12" />
 > <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" /></a>
 > <img width="12" />
-> <a href="https://wordpress.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" /></a>
+> <a href="https://wordpress.org"><img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" /></a>
 > <img width="12" />
 > <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" /></a>
 > <img width="12" />
