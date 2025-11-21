@@ -49,7 +49,7 @@
 > <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /></a>
 > </p>
 
-> Let' \*[!TIP]\*\*[!TIP]\*
+> [!NOTE]
 >
 > <div align="left">
 > <a href="https://linkedin.com/in/markgalkin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a> <img width="12" /> <a href="https://discord.gg/fkwr"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  /></a> <img width="12" /> <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  /></a> <img width="12" /> </div>
