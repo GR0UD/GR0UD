@@ -32,7 +32,7 @@
 > <img width="12" />
 > <a href="https://www.npmjs.com/"><img src="https://cdn.simpleicons.org/npm/CB3837" height="40" /></a>
 > <img width="12" />
-> <a href="https://www.postman.com/"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" /></a>
+> <a href="https://www.postman.com/"><img src="https://www.readmecodegen.com/api/social-icon?name=postman&size=40&animation=fade&animationDuration=3" height="40" /></a>
 > <img width="12" />
 > <a href="https://insomnia.rest/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" /></a>
 > <img width="12" />
@@ -47,7 +47,7 @@
 > <a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" /></a>
 > <img width="12" />
 > <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /></a>
-> ![postman](https://www.readmecodegen.com/api/social-icon?name=postman&size=40&animation=fade&animationDuration=3)
+
 > </p>
 
 > [!NOTE]
