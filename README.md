@@ -16,7 +16,7 @@
 </table>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
-  <tr>
+  <tr  width="100%" cellspacing="0" cellpadding="0" border="0">
     <td align="left">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1DCB5C&center=true&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!" />
     </td>
