@@ -3,6 +3,20 @@
 | <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1DCB5C&center=true&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!"/></div> | <div align="center"><img src="https://spotify-live-banner-two.vercel.app/?theme=dark" alt="Spotify Now Playing" width="400" /></div> |
 |                                                                                                                                                                                                         |                                                                                                                                      |
 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+
+  <!-- INTRO TEXT -->
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1DCB5C&center=true&vCenter=true&width=350&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!" />
+  </div>
+
+  <!-- SPOTIFY WIDGET -->
+  <div>
+    <img src="https://spotify-live-banner-two.vercel.app/?theme=dark" alt="Spotify Now Playing" width="400" />
+  </div>
+
+</div>
+
 > [!TIP]
 >
 > <p>
