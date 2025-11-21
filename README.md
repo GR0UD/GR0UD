@@ -1,3 +1,12 @@
+> [!NOTE]
+>
+> <div align="left">
+> <a href="https://linkedin.com/in/markgalkin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a> <img width="12" /> <a href="https://discord.gg/fkwr"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  /></a> <img width="12" /> <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  /></a> <img width="12" /> </div>
+
+<div align="right">
+<a href="https://galkin.vercel.app"><img src="https://cdn.discordapp.com/attachments/1120391152038850732/1441202489503514815/logo.png?ex=6920efe9&is=691f9e69&hm=11403dc083fa74f8f52f7cefa68ff037984e4a7ae3ec6f1aa419b0ab08c5be81" height="40" alt="website logo" /></a>
+ </div>
+
 > [!TIP]
 >
 > <p>
@@ -47,12 +56,3 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1DCB5C&center=true&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!"/></div> | <div align="center"><img src="https://spotify-live-banner-two.vercel.app/?theme=dark" alt="Spotify Now Playing" width="400" /></div> |
 |                                                                                                                                                                                                         |                                                                                                                                      |
-
-> [!NOTE]
->
-> <div align="left">
-> <a href="https://linkedin.com/in/markgalkin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a> <img width="12" /> <a href="https://discord.gg/fkwr"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  /></a> <img width="12" /> <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  /></a> <img width="12" /> </div>
-
-<div align="right">
-<a href="https://galkin.vercel.app"><img src="https://cdn.discordapp.com/attachments/1120391152038850732/1441202489503514815/logo.png?ex=6920efe9&is=691f9e69&hm=11403dc083fa74f8f52f7cefa68ff037984e4a7ae3ec6f1aa419b0ab08c5be81" height="40" alt="website logo" /></a>
- </div>
