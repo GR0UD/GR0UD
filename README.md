@@ -57,3 +57,9 @@
 <div align="right">
 <a href="https://galkin.vercel.app"><img src="https://cdn.discordapp.com/attachments/1120391152038850732/1441202489503514815/logo.png?ex=6920efe9&is=691f9e69&hm=11403dc083fa74f8f52f7cefa68ff037984e4a7ae3ec6f1aa419b0ab08c5be81" height="40" alt="website logo" /></a>
  </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GR0UD/GR0UD/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GR0UD/GR0UD/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GR0UD/GR0UD/output/pacman-contribution-graph.svg">
+</picture>
