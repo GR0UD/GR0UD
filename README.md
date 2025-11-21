@@ -57,7 +57,7 @@
 <table width="100%" align="right">
   <tr>
     <td nowrap>
-      <br clear="both">
+      <br>
       <a href="https://galkin.vercel.app"><img src="https://cdn.discordapp.com/attachments/1120391152038850732/1441202489503514815/logo.png?ex=6920efe9&is=691f9e69&hm=11403dc083fa74f8f52f7cefa68ff037984e4a7ae3ec6f1aa419b0ab08c5be81" height="40" alt="website logo" />
     </td>
   </tr>
