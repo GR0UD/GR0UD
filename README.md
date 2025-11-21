@@ -13,9 +13,8 @@
     <td align="left">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1DCB5C&center=true&vCenter=true&width=435&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!" />
     </td>
-      <img src="https://spotify-live-banner-two.vercel.app/?theme=dark" alt="Spotify Now Playing" width="400" />
   </tr>
-</table>
+</table>       <img src="https://spotify-live-banner-two.vercel.app/?theme=dark" alt="Spotify Now Playing" width="400" />
 
 > [!TIP]
 >
