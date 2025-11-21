@@ -10,7 +10,7 @@
 
 > [!TIP]
 >
-> <p>
+> <div align="center" style="display: flex; align-item: center; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
 > <a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" /></a>
 > <img width="12" />
 > <a href="https://www.w3.org/Style/CSS/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" /></a>
@@ -52,7 +52,7 @@
 > <a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" /></a>
 > <img width="12" />
 > <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /></a>
-> </p>
+> </div>
 
 > [!NOTE]
 >
