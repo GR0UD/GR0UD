@@ -47,7 +47,8 @@
 <a href="https://www.mongodb.com"><img src="https://www.google.com/search?q=https://www.readmecodegen.com/api/social-icon%3Fname%3Dmongodb%26size%3D40%26animation%3Dfade%26animationDuration%3D5%26animationDelay%3D19" height="40" /></a>
 <img width="12" />
 <a href="https://www.mysql.com"><img src="https://www.google.com/search?q=https://www.readmecodegen.com/api/social-icon%3Fname%3Dmysql%26size%3D40%26animation%3Dfade%26animationDuration%3D5%26animationDelay%3D20" height="40" /></a>
-> </p>
+
+</p>
 
 > [!NOTE]
 >
