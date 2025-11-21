@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
 
   <!-- INTRO -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1DCB5C&center=true&vCenter=true&width=350&lines=Hi+I'm+GR0UD;Welcome+to+my+GitHub!" />
