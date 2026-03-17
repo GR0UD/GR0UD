@@ -59,7 +59,7 @@
 <table width="100%" align="right">
   <tr>
     <td border="none" nowrap>
-      <a href="https://galkin.vercel.app"><img src="https://galkin.vercel.app/logo.png" height="40" alt="website logo" />
+      <a href="https://galkin.vercel.app"><img src="https://galkin.vercel.app/logo.avif" height="40" alt="website logo" />
     </td>
   </tr>
 </table> <a href="https://linkedin.com/in/markgalkin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" /></a>
