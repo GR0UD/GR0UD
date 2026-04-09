@@ -69,6 +69,8 @@
   <a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" /></a>
   <img width="8" />
   <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" /></a>
+  <img width="8" />
+  <a href="https://vercel.com"><img src="https://cdn.simpleicons.org/vercel/ffffff" height="36" /></a>
 </p>
 
 <h2 align="center">‎</h2>
