@@ -1,5 +1,5 @@
 <p align="center">
-‎  <img height="8" src="https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C" />
+‎  <img height="32" src="https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C" />
 </p>
 
 <table width="100%">
