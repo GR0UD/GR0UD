@@ -1,7 +1,3 @@
-<p align="center">
-‎  <img height="32" src="https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C" />
-</p>
-
 <table width="100%">
   <tr>
     <td align="left" valign="center">
@@ -103,3 +99,9 @@
       <a href="https://discord.com/users/1019690788709470328"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
 </a>
       <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo" /></a>    
+
+
+
+<p align="center">
+‎  <img height="32" src="https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C" />
+</p>
