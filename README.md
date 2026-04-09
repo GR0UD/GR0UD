@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<img height="1" width="100%" src="https://raw.githubusercontent.com/nicedoc/nicedoc/master/assets/line.png" />
+<h2 align="center">‎</h2>
 
 **Frontend**
 
@@ -67,7 +67,7 @@
   <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" /></a>
 </p>
 
-<img height="1" width="100%" src="https://raw.githubusercontent.com/nicedoc/nicedoc/master/assets/line.png" />
+<h2 align="center">‎</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GR0UD&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1DCB5C&icon_color=1DCB5C" height="160"/>
@@ -81,8 +81,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GR0UD&theme=github-compact&hide_border=true&bg_color=0d1117&color=1DCB5C&line=1DCB5C&point=ffffff" />
 </p>
-
-<img height="1" width="100%" src="https://raw.githubusercontent.com/nicedoc/nicedoc/master/assets/line.png" />
 
 <h2 align="center">‎</h2>
 
