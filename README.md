@@ -6,7 +6,7 @@
       <p>Frontend engineer. I build clean, minimal, structured UIs, curious by nature and always learning.</p>
     </td>
     <td align="right" valign="center">
-      <img src="https://spotify-live-banner-two.vercel.app/?theme=dark" alt="Spotify Now Playing" width="400" />
+      <img src="https://spotify-live-banner-two.vercel.app/?theme=dark" alt="Spotify Now Playing" width="425" />
     </td>
   </tr>
 </table>
