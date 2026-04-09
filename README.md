@@ -98,3 +98,22 @@
 </p>
 
 <h2 align="center">‎</h2>
+
+<img height="1" width="100%" src="https://raw.githubusercontent.com/nicedoc/nicedoc/master/assets/line.png" />
+
+<table width="100%">
+  <tr>
+    <td align="left" valign="center">
+      <a href="https://linkedin.com/in/markgalkin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" alt="linkedin" /></a>
+      <img width="8" />
+      <a href="https://discord.com/users/1019690788709470328"><img src="https://skillicons.dev/icons?i=discord" height="36" alt="discord" /></a>
+      <img width="8" />
+      <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="36" alt="codepen" /></a>
+      <img width="16" />
+      <img src="https://komarev.com/ghpvc/?username=GR0UD&color=1DCB5C&style=flat-square&label=profile+views" />
+    </td>
+    <td align="right" valign="center">
+      <a href="https://galkin.vercel.app"><img src="https://galkin.vercel.app/icon.gif" height="40" alt="website logo" /></a>
+    </td>
+  </tr>
+</table>
