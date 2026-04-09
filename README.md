@@ -29,6 +29,8 @@
   <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" /></a>
   <img width="8" />
   <a href="https://tailwindcss.com"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" /></a>
+  <img width="8" />
+  <a href="https://sass-lang.com"><img src="https://cdn.simpleicons.org/sass/CC6699" height="36" /></a>
 </p>
 
 **Backend & Data**
@@ -43,6 +45,8 @@
   <a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" /></a>
   <img width="8" />
   <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" /></a>
+  <img width="8" />
+  <a href="https://www.postgresql.org"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="36" /></a>
   <img width="8" />
   <a href="https://wordpress.org"><img src="https://cdn.simpleicons.org/wordpress/21759B" height="36" /></a>
 </p>
