@@ -84,10 +84,14 @@
 </p>
 
 <p align="center">
+‎  <img src="https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GR0UD&theme=github-compact&hide_border=true&bg_color=0d1117&color=1DCB5C&line=1DCB5C&point=ffffff" />
 </p>
 
-<h2 align="center">‎<img src="https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C" /> </h2>
+<h2 align="center"></h2>
 
 <table width="100%" align="right">
   <tr>
