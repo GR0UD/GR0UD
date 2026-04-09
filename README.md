@@ -1,7 +1,8 @@
 <table width="100%">
   <tr>
     <td align="left" valign="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1DCB5C&vCenter=true&width=435&lines=Hi+I'm+Mark;Full-Stack+Developer;Making+things+on+the+web" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1DCB5C&vCenter=true&width=435&lines=Hi+I'm+Mark;Full-Stack+Developer;Making+things+on+the+web" /> https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C
+
       <br/>
       <p>Frontend engineer. I build clean, minimal, structured UIs, curious by nature and always learning.</p>
     </td>
@@ -96,6 +97,6 @@
     </td>
   </tr>
 </table> <a href="https://linkedin.com/in/markgalkin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" /></a>
-      <a href="https://discord.com/users/1019690788709470328"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" /> <img src="https://badge-counter-six.vercel.app/api/badge?id=profile&label=views&icon=eye&color=1DCB5C&style=pill" />
+      <a href="https://discord.com/users/1019690788709470328"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
 </a>
       <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo" /></a>    
