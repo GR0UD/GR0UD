@@ -1,8 +1,7 @@
 <table width="100%">
   <tr>
     <td align="left" valign="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1DCB5C&vCenter=true&width=435&lines=Hi+I'm+Mark;Full-Stack+Developer;Making+things+on+the+web" /> https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C
-
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1DCB5C&vCenter=true&width=435&lines=Hi+I'm+Mark;Full-Stack+Developer;Making+things+on+the+web" /> <img src="https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C" /> 
       <br/>
       <p>Frontend engineer. I build clean, minimal, structured UIs, curious by nature and always learning.</p>
     </td>
