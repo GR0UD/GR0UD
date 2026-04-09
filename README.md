@@ -49,6 +49,10 @@
   <a href="https://www.postgresql.org"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="36" /></a>
   <img width="8" />
   <a href="https://wordpress.org"><img src="https://cdn.simpleicons.org/wordpress/21759B" height="36" /></a>
+  <img width="8" />
+  <a href="https://hono.dev"><img src="https://cdn.simpleicons.org/hono/E36002" height="36" /></a>
+  <img width="8" />
+  <a href="https://expressjs.com"><img src="https://cdn.simpleicons.org/express/ffffff" height="36" /></a>
 </p>
 
 **Tools & Workflow**
