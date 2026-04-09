@@ -95,7 +95,9 @@
       <a href="https://galkin.vercel.app"><img src="https://galkin.vercel.app/icon.gif" height="40" alt="website logo" />
     </td>
   </tr>
-</table>       <img src="https://komarev.com/ghpvc/?username=GR0UD&color=1DCB5C&style=flat-square&label=profile+views" />
- <a href="https://linkedin.com/in/markgalkin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" /></a>
+</table> <a href="https://linkedin.com/in/markgalkin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" /></a>
       <a href="https://discord.com/users/1019690788709470328"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" /></a>
       <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo" /></a>
+
+        
+<img src="https://komarev.com/ghpvc/?username=GR0UD&color=1DCB5C&style=flat-square&label=profile+views" />
