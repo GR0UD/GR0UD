@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="left" valign="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1DCB5C&vCenter=true&width=435&lines=Hi+I'm+Mark;Full-Stack+Developer;Making+things+on+the+web" /> <img src="https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C" /> 
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1DCB5C&vCenter=true&width=435&lines=Hi+I'm+Mark;Full-Stack+Developer;Making+things+on+the+web" />
       <br/>
       <p>Frontend engineer. I build clean, minimal, structured UIs, curious by nature and always learning.</p>
     </td>
@@ -87,7 +87,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GR0UD&theme=github-compact&hide_border=true&bg_color=0d1117&color=1DCB5C&line=1DCB5C&point=ffffff" />
 </p>
 
-<h2 align="center">‎</h2>
+<h2 align="center">‎<img src="https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C" /> </h2>
 
 <table width="100%" align="right">
   <tr>
