@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="left" valign="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1DCB5C&vCenter=true&width=435&lines=Hi+I'm+Mark;Full-Stack+Developer;Building+things+for+the+web" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1DCB5C&vCenter=true&width=440&lines=Hi+I'm+Mark;Full-Stack+Developer;Building+things+for+the+web" />
       <br/>
       <p>Frontend-focused dev who loves clean UI, fast builds, and shipping things that actually work.</p>
     </td>
