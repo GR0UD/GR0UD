@@ -68,8 +68,9 @@
 <h2 align="center">‎</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GR0UD&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1DCB5C&icon_color=1DCB5C" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GR0UD&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1DCB5C" height="160"/>
+[  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GR0UD&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1DCB5C&icon_color=1DCB5C" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GR0UD&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1DCB5C" height="160"/>](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GR0UD&theme=github_dark
+https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GR0UD&theme=github_dark)
 </p>
 
 <p align="center">
