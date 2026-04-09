@@ -80,6 +80,10 @@
 <h2 align="center">‎</h2>
 
 <p align="center">
+‎  <img height="32" src="https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=GR0UD&theme=dark&hide_border=true&background=0d1117&ring=1DCB5C&fire=1DCB5C&currStreakLabel=1DCB5C" />
 </p>
 
@@ -98,10 +102,4 @@
 </table> <a href="https://linkedin.com/in/markgalkin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" /></a>
       <a href="https://discord.com/users/1019690788709470328"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
 </a>
-      <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo" /></a>    
-
-
-
-<p align="center">
-‎  <img height="32" src="https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C" />
-</p>
+      <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo" /></a>
