@@ -81,11 +81,11 @@
 
 
 <p align="center">
-‎  <img height="32" src="https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C" />
+  <img src="https://streak-stats.demolab.com?user=GR0UD&theme=dark&hide_border=true&background=0d1117&ring=1DCB5C&fire=1DCB5C&currStreakLabel=1DCB5C" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GR0UD&theme=dark&hide_border=true&background=0d1117&ring=1DCB5C&fire=1DCB5C&currStreakLabel=1DCB5C" />
+‎  <img height="32" src="https://badge-counter-six.vercel.app/api/badge?label=false&icon=eye&color=1DCB5C" />
 </p>
 
 <p align="center">
