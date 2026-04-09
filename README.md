@@ -11,9 +11,7 @@
   </tr>
 </table>
 
----
-
-### 🛠 Tech Stack
+<img height="1" width="100%" src="https://raw.githubusercontent.com/nicedoc/nicedoc/master/assets/line.png" />
 
 **Frontend**
 
@@ -69,13 +67,11 @@
   <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" /></a>
 </p>
 
----
-
-### 📊 Stats
+<img height="1" width="100%" src="https://raw.githubusercontent.com/nicedoc/nicedoc/master/assets/line.png" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GR0UD&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1DCB5C&icon_color=1DCB5C" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GR0UD&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1DCB5C" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GR0UD&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1DCB5C&icon_color=1DCB5C" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GR0UD&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1DCB5C" height="160"/>
 </p>
 
 <p align="center">
@@ -86,20 +82,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GR0UD&theme=github-compact&hide_border=true&bg_color=0d1117&color=1DCB5C&line=1DCB5C&point=ffffff" />
 </p>
 
----
+<img height="1" width="100%" src="https://raw.githubusercontent.com/nicedoc/nicedoc/master/assets/line.png" />
 
-### 🔗 Connect
-
-<p>
-  <a href="https://galkin.vercel.app"><img src="https://galkin.vercel.app/icon.gif" height="36" alt="website" /></a>
-  <img width="8" />
-  <a href="https://linkedin.com/in/markgalkin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" alt="linkedin" /></a>
-  <img width="8" />
-  <a href="https://discord.com/users/1019690788709470328"><img src="https://skillicons.dev/icons?i=discord" height="36" alt="discord" /></a>
-  <img width="8" />
-  <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="36" alt="codepen" /></a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=GR0UD&color=1DCB5C&style=flat-square&label=profile+views" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left" valign="center">
+      <a href="https://linkedin.com/in/markgalkin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" alt="linkedin" /></a>
+      <img width="8" />
+      <a href="https://discord.com/users/1019690788709470328"><img src="https://skillicons.dev/icons?i=discord" height="36" alt="discord" /></a>
+      <img width="8" />
+      <a href="https://codepen.io/GR0UD"><img src="https://skillicons.dev/icons?i=codepen" height="36" alt="codepen" /></a>
+      <img width="16" />
+      <img src="https://komarev.com/ghpvc/?username=GR0UD&color=1DCB5C&style=flat-square&label=profile+views" />
+    </td>
+    <td align="right" valign="center">
+      <a href="https://galkin.vercel.app"><img src="https://galkin.vercel.app/icon.gif" height="40" alt="website logo" /></a>
+    </td>
+  </tr>
+</table>
