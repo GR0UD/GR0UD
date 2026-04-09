@@ -3,7 +3,7 @@
     <td align="left" valign="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1DCB5C&vCenter=true&width=435&lines=Hi+I'm+Mark;Full-Stack+Developer;Making+things+on+the+web" />
       <br/>
-      <p>Frontend engineer. I build clean UI, fast and ship things that actually work.</p>
+      <p>Frontend engineer. I build clean, minimal, structured UIs, curious by nature and always learning.</p>
     </td>
     <td align="right" valign="center">
       <img src="https://spotify-live-banner-two.vercel.app/?theme=dark" alt="Spotify Now Playing" width="400" />
