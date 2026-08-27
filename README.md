@@ -12,7 +12,6 @@
 </table>
 <img height="1" width="100%"
 
-
 **Frontend**
 
 <p>
@@ -50,8 +49,6 @@
   <img width="8" />
   <a href="https://www.postgresql.org"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="36" /></a>
   <img width="8" />
-  <a href="https://wordpress.org"><img src="https://cdn.simpleicons.org/wordpress/21759B" height="36" /></a>
-  <img width="8" />
   <a href="https://hono.dev"><img src="https://cdn.simpleicons.org/hono/E36002" height="36" /></a>
   <img width="8" />
   <a href="https://expressjs.com"><img src="https://cdn.simpleicons.org/express/ffffff" height="36" /></a>
@@ -60,8 +57,6 @@
 **Tools & Workflow**
 
 <p>
-  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" /></a>
-  <img width="8" />
   <a href="https://webpack.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="36" /></a>
   <img width="8" />
   <a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest" height="36" /></a>
@@ -72,16 +67,32 @@
   <img width="8" />
   <a href="https://insomnia.rest/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="36" /></a>
   <img width="8" />
-  <a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" /></a>
+  <a href="https://claude.ai"><img src="https://cdn.simpleicons.org/claude/D97757" height="36" /></a>
+  <img width="8" />
+  <a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" />
+</p>
+
+**CMS / Dev Tools**
+
+<p>
+  <a href="https://wordpress.org"><img src="https://cdn.simpleicons.org/wordpress/21759B" height="36" /></a>
+  <img width="8" />
+  <a href="https://www.mamp.info/en/"><img src="https://cdn.simpleicons.org/mamp" height="36" /></a>
   <img width="8" />
   <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" /></a>
   <img width="8" />
+  <a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" /></a>
+  <img width="8" />
+  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" /></a>
+  <img width="8" />
   <a href="https://vercel.com"><img src="https://cdn.simpleicons.org/vercel/ffffff" height="36" /></a>
+  <img width="8" />
+  <a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="36" /></a>
+  <img width="8" />
+  <a href="https://www.blender.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="36" /></a>
 </p>
 
 <h2 align="center">‎</h2>
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=GR0UD&theme=dark&hide_border=true&background=0d1117&ring=1DCB5C&fire=1DCB5C&currStreakLabel=1DCB5C" />
