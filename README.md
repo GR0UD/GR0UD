@@ -28,6 +28,8 @@
   <img width="8" />
   <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" /></a>
   <img width="8" />
+  <a href="https://tanstack.com/query"><img src="https://cdn.simpleicons.org/reactquery/FF4154" height="36" /></a>
+  <img width="8" />
   <a href="https://tailwindcss.com"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" /></a>
   <img width="8" />
   <a href="https://sass-lang.com"><img src="https://cdn.simpleicons.org/sass/CC6699" height="36" /></a>
